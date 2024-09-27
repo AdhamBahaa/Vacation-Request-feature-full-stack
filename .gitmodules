@@ -1,0 +1,3 @@
+[submodule "VacationFrontend"]
+	path = VacationFrontend
+	url = https://github.com/AdhamBahaa/VacationFrontend.git
